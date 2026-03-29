@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --windowed --icon="mpf-icon-ico.ico" --add-data "mpf-icon-ico.ico;." MPF.py
