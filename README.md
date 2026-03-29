@@ -19,3 +19,8 @@ Ensure you have Python 3.9+ installed. You will need the following libraries:
 
 ```bash
 pip install PyQt6 pyqtgraph numpy pyinstaller
+
+
+
+fds
+
